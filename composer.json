@@ -1,0 +1,17 @@
+{
+    "name": "songzw\/demo2",
+    "description": "test demo2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songzw",
+            "email": "songzw1024@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Songzw\\Demo2\\": "src"
+        }
+    }
+}
